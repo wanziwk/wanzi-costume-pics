@@ -1,6 +1,6 @@
 # wanzi-costume-pics
 
-丸子 AI 绘图 / AI 换装的服装参考图集，供 `wanzi-homepage` 与 `wanziwk-29` 共用。
+丸子 AI 的服装参考图集
 
 ## 内容
 
